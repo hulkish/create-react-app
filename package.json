@@ -18,7 +18,9 @@
     "lerna": "2.0.0-beta.38",
     "lerna-changelog": "^0.2.3",
     "lint-staged": "^3.3.1",
-    "prettier": "^0.21.0"
+    "prettier": "^0.21.0",
+    "simple-progress-webpack-plugin": "^1.0.4",
+    "sw-precache-webpack-plugin": "^0.11.0"
   },
   "lint-staged": {
     "*.js": [
